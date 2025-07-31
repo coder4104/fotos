@@ -1,0 +1,32 @@
+[
+  {
+    "id": "688a5e00-0e14-4e5f-afaf-0a74535696d7",
+    "albumId": "VTbzQqMEKMr7PYd2tOLKB",
+    "albumName": "dxcgfvbhjnm",
+    "userId": "ea446cc8-a334-44ae-b83c-9469b14a42ce",
+    "imageUrl": "file://C:/Users/Rahul/Desktop/fotos/kimino nava.jpg",
+    "createdAt": "2025-07-24T17:41:20.483Z",
+    "directory": "C:\\Users\\Rahul\\Desktop\\fotos",
+    "fileUrl": "https://res.cloudinary.com/dxfujspwu/image/upload/v1753378884/albums/image-daaba6c9-0eae-46d7-a67a-aeb9ff1f50a0.jpg"
+  },
+  {
+    "id": "10c78882-0158-4710-a07b-ce044b3cde66",
+    "albumId": "VTbzQqMEKMr7PYd2tOLKB",
+    "albumName": "dxcgfvbhjnm",
+    "userId": "ea446cc8-a334-44ae-b83c-9469b14a42ce",
+    "imageUrl": "file://C:/Users/Rahul/Desktop/fotos/virat-kohli-anushka-sharma-ipl-finals-rcb-vs-pbks-pti-D.webp",
+    "createdAt": "2025-07-24T17:42:02.028Z",
+    "directory": "C:\\Users\\Rahul\\Desktop\\fotos",
+    "fileUrl": "https://res.cloudinary.com/dxfujspwu/image/upload/v1753378926/albums/image-336e9acc-6ac9-4938-a6fb-21a6dc57cda7.webp"
+  },
+  {
+    "id": "e5da108c-6f9d-4fdf-aeb9-23c68ec2983b",
+    "albumId": "VTbzQqMEKMr7PYd2tOLKB",
+    "albumName": "dxcgfvbhjnm",
+    "userId": "ea446cc8-a334-44ae-b83c-9469b14a42ce",
+    "imageUrl": "file://C:/Users/Rahul/Desktop/fotos/krishna.jpg",
+    "createdAt": "2025-07-24T17:43:26.345Z",
+    "directory": "C:\\Users\\Rahul\\Desktop\\fotos",
+    "fileUrl": "https://res.cloudinary.com/dxfujspwu/image/upload/v1753379035/albums/image-b1c6a6e3-0d73-42fa-ab9a-c88eb922ff25.jpg"
+  }
+]
